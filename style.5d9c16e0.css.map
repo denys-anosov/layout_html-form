@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AACA,6BACE,eACF,CAMA,mCACE,eACF","file":"style.5d9c16e0.css","sourceRoot":"..\\src","sourcesContent":["/* styles go here */\n.form-field:not(:last-child) {\n  margin: 0 0 10px;\n}\n\nfieldset:not(:first-child) {\n  margin-top: 20px;\n}\n\n.button {\n  margin-top: 20px;\n}\n"]}
